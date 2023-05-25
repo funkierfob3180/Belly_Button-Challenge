@@ -142,7 +142,7 @@ function buildGaugeChart(sample) {
                 mode: "gauge+number",
                 gauge: {
                     axis: { range: [null, 9] },
-                    bar: { color: "blue" },
+                    bar: { color: "black" },
                     steps: [
                         { range: [0, 1], color: "red" },
                         { range: [1, 2], color: "orange" },
