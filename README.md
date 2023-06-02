@@ -1,3 +1,3 @@
 # Belly_Button-Challenge
 
-![](images/bacteria.png)
+![](./images/bacteria.png)
